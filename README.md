@@ -19,4 +19,4 @@ To identify key performance specifications that influence sales and revenue of c
 - The most renue generated manufacturer was the ford manufacturer
 
   ## Dashboard Preview
-  ![Car sales Dashboard](Car_sales dashboard.png)
+  ![Car sales Dashboard](Car_Sales dashboard.png)
